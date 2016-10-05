@@ -1,5 +1,5 @@
 # run pullertweet
 
 ```
-$ sbt "run-main co.nawa.ayovote YOUR_QUERY_FILTER"
+$ sbt "run-main co.nawa.ayovote.PullerTweet YOUR_QUERY_FILTER"
 ```
